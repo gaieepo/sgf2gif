@@ -183,7 +183,7 @@ const (
 const (
 	delay         = 100 // delay between frames in 10ms units
 	stoneDiameter = 40  // pixels
-	boardSize     = 9
+	boardSize     = 19
 )
 
 // side of the board in pixels
